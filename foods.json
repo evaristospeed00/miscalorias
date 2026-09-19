@@ -1,0 +1,1962 @@
+{
+  "apple_pie": {
+    "name": "Pay de Manzana",
+    "calories": 237,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Azúcar, mantequilla y harina refinada. El relleno de manzana es lo único rescatable.",
+    "macros": {
+      "protein": 3,
+      "carbs": 34,
+      "fat": 11,
+      "sugar": 18,
+      "fiber": 2
+    }
+  },
+  "baby_back_ribs": {
+    "name": "Costillas BBQ",
+    "calories": 290,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Altísimas en grasa saturada. La salsa BBQ agrega mucha azúcar oculta.",
+    "macros": {
+      "protein": 18,
+      "carbs": 8,
+      "fat": 22,
+      "sugar": 7,
+      "fiber": 0
+    }
+  },
+  "baklava": {
+    "name": "Baklava",
+    "calories": 334,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Capas de masa, mantequilla, nueces y miel. Delicioso pero una bomba calórica.",
+    "macros": {
+      "protein": 5,
+      "carbs": 35,
+      "fat": 21,
+      "sugar": 18,
+      "fiber": 2
+    }
+  },
+  "beef_carpaccio": {
+    "name": "Carpaccio de Res",
+    "calories": 121,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Carne cruda en láminas finas. Bajo en calorías, alto en proteína y hierro.",
+    "macros": {
+      "protein": 20,
+      "carbs": 1,
+      "fat": 4,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "beef_tartare": {
+    "name": "Tártara de Res",
+    "calories": 170,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Proteína pura sin cocción. Si es fresco y de calidad, es nutritivo.",
+    "macros": {
+      "protein": 22,
+      "carbs": 2,
+      "fat": 8,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "beet_salad": {
+    "name": "Ensalada de Betabel",
+    "calories": 90,
+    "unit": "por porción",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: El betabel es un súper alimento. Mejora la circulación y baja la presión arterial.",
+    "macros": {
+      "protein": 2,
+      "carbs": 14,
+      "fat": 3,
+      "sugar": 9,
+      "fiber": 3
+    }
+  },
+  "beignets": {
+    "name": "Beignets / Buñuelos",
+    "calories": 311,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa frita cubierta de azúcar. Calorías vacías que disparan tu insulina.",
+    "macros": {
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16,
+      "sugar": 12,
+      "fiber": 1
+    }
+  },
+  "bibimbap": {
+    "name": "Bibimbap",
+    "calories": 490,
+    "unit": "por plato",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Tiene arroz, verduras y proteína. Es bastante balanceado si no abusas de la salsa.",
+    "macros": {
+      "protein": 18,
+      "carbs": 68,
+      "fat": 16,
+      "sugar": 6,
+      "fiber": 5
+    }
+  },
+  "bread_pudding": {
+    "name": "Budín de Pan",
+    "calories": 230,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Pan viejo empapado en crema, huevo y azúcar. Es un postre pesado.",
+    "macros": {
+      "protein": 5,
+      "carbs": 35,
+      "fat": 8,
+      "sugar": 20,
+      "fiber": 1
+    }
+  },
+  "breakfast_burrito": {
+    "name": "Burrito de Desayuno",
+    "calories": 350,
+    "unit": "por unidad",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Huevo y frijoles son nutritivos. El enemigo es la tortilla de harina y el queso extra.",
+    "macros": {
+      "protein": 16,
+      "carbs": 32,
+      "fat": 18,
+      "sugar": 2,
+      "fiber": 4
+    }
+  },
+  "bruschetta": {
+    "name": "Bruschetta",
+    "calories": 120,
+    "unit": "por pieza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Pan tostado con tomate fresco. Ligera si no le pones demasiado aceite.",
+    "macros": {
+      "protein": 3,
+      "carbs": 15,
+      "fat": 5,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "caesar_salad": {
+    "name": "Ensalada César",
+    "calories": 180,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: ¡CUIDADO! Parece sana pero el aderezo César tiene mucha grasa y calorías ocultas.",
+    "macros": {
+      "protein": 7,
+      "carbs": 10,
+      "fat": 14,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "cannoli": {
+    "name": "Cannoli",
+    "calories": 220,
+    "unit": "por pieza",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa frita rellena de crema dulce. Un postre italiano delicioso pero calórico.",
+    "macros": {
+      "protein": 4,
+      "carbs": 22,
+      "fat": 13,
+      "sugar": 11,
+      "fiber": 1
+    }
+  },
+  "caprese_salad": {
+    "name": "Ensalada Caprese",
+    "calories": 200,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Tomate y albahaca son sanos, pero la mozzarella y el aceite suman calorías.",
+    "macros": {
+      "protein": 8,
+      "carbs": 6,
+      "fat": 16,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "carrot_cake": {
+    "name": "Pastel de Zanahoria",
+    "calories": 340,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: El nombre engaña. Tiene más azúcar y aceite que zanahoria real.",
+    "macros": {
+      "protein": 4,
+      "carbs": 42,
+      "fat": 18,
+      "sugar": 28,
+      "fiber": 1
+    }
+  },
+  "ceviche": {
+    "name": "Ceviche",
+    "calories": 120,
+    "unit": "por porción",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Proteína magra del pescado + limón + verduras. ¡Excelente opción baja en calorías!",
+    "macros": {
+      "protein": 18,
+      "carbs": 8,
+      "fat": 2,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "cheese_plate": {
+    "name": "Tabla de Quesos",
+    "calories": 400,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Calcio y proteína, pero densísimo en calorías. Un pedacito pequeño es suficiente.",
+    "macros": {
+      "protein": 25,
+      "carbs": 1,
+      "fat": 33,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "cheesecake": {
+    "name": "Cheesecake / Pay de Queso",
+    "calories": 321,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Queso crema, azúcar y mantequilla. Una rebanada = casi una comida entera en calorías.",
+    "macros": {
+      "protein": 6,
+      "carbs": 28,
+      "fat": 22,
+      "sugar": 22,
+      "fiber": 0
+    }
+  },
+  "chicken_curry": {
+    "name": "Pollo al Curry",
+    "calories": 240,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El pollo es proteína magra. El problema es la crema de coco y el aceite de la salsa.",
+    "macros": {
+      "protein": 22,
+      "carbs": 12,
+      "fat": 12,
+      "sugar": 4,
+      "fiber": 2
+    }
+  },
+  "chicken_quesadilla": {
+    "name": "Quesadilla de Pollo",
+    "calories": 320,
+    "unit": "por unidad",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El queso derretido y la tortilla suman calorías rápido. El pollo es lo más sano.",
+    "macros": {
+      "protein": 18,
+      "carbs": 28,
+      "fat": 16,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "chicken_wings": {
+    "name": "Alitas de Pollo",
+    "calories": 290,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: La piel frita absorbe aceite como esponja. Sin piel ni fritura, el pollo es súper sano.",
+    "macros": {
+      "protein": 16,
+      "carbs": 8,
+      "fat": 21,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "chocolate_cake": {
+    "name": "Pastel de Chocolate",
+    "calories": 370,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Azúcar + harina + mantequilla + chocolate con leche. Triple bomba calórica.",
+    "macros": {
+      "protein": 4,
+      "carbs": 48,
+      "fat": 20,
+      "sugar": 32,
+      "fiber": 2
+    }
+  },
+  "chocolate_mousse": {
+    "name": "Mousse de Chocolate",
+    "calories": 210,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Crema batida y chocolate. Menos calórico que un pastel pero sigue siendo postre puro.",
+    "macros": {
+      "protein": 3,
+      "carbs": 18,
+      "fat": 15,
+      "sugar": 16,
+      "fiber": 1
+    }
+  },
+  "churros": {
+    "name": "Churros",
+    "calories": 260,
+    "unit": "por porción (3 piezas)",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa frita bañada en azúcar y canela. Si le pones chocolate, duplicas las calorías.",
+    "macros": {
+      "protein": 4,
+      "carbs": 34,
+      "fat": 12,
+      "sugar": 10,
+      "fiber": 1
+    }
+  },
+  "clam_chowder": {
+    "name": "Sopa de Almejas",
+    "calories": 165,
+    "unit": "por tazón",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Las almejas son sanas, pero la base cremosa tiene bastante grasa.",
+    "macros": {
+      "protein": 8,
+      "carbs": 14,
+      "fat": 9,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "club_sandwich": {
+    "name": "Club Sándwich",
+    "calories": 400,
+    "unit": "por unidad",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Triple piso de pan + mayonesa + tocino lo hacen pesado. Quítale una capa de pan.",
+    "macros": {
+      "protein": 20,
+      "carbs": 35,
+      "fat": 20,
+      "sugar": 4,
+      "fiber": 2
+    }
+  },
+  "crab_cakes": {
+    "name": "Tortitas de Cangrejo",
+    "calories": 220,
+    "unit": "por pieza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El cangrejo es bajo en grasa, pero el empanizado y la fritura agregan calorías.",
+    "macros": {
+      "protein": 14,
+      "carbs": 18,
+      "fat": 11,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "creme_brulee": {
+    "name": "Crème Brûlée",
+    "calories": 260,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Crema, yemas de huevo y azúcar caramelizada. Postre elegante pero calórico.",
+    "macros": {
+      "protein": 4,
+      "carbs": 26,
+      "fat": 16,
+      "sugar": 24,
+      "fiber": 0
+    }
+  },
+  "croque_madame": {
+    "name": "Croque Madame",
+    "calories": 415,
+    "unit": "por unidad",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Sándwich de jamón y queso gratinado con huevo encima. Delicioso pero pesadísimo.",
+    "macros": {
+      "protein": 22,
+      "carbs": 32,
+      "fat": 24,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "cup_cakes": {
+    "name": "Cupcakes",
+    "calories": 300,
+    "unit": "por pieza",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Mini pastel con betún de mantequilla. La decoración linda esconde mucha azúcar.",
+    "macros": {
+      "protein": 3,
+      "carbs": 40,
+      "fat": 15,
+      "sugar": 30,
+      "fiber": 1
+    }
+  },
+  "deviled_eggs": {
+    "name": "Huevos Rellenos",
+    "calories": 130,
+    "unit": "por 2 mitades",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El huevo es nutritivo. La mayonesa del relleno es lo que agrega calorías extras.",
+    "macros": {
+      "protein": 7,
+      "carbs": 1,
+      "fat": 11,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "donuts": {
+    "name": "Donas",
+    "calories": 250,
+    "unit": "por pieza",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa frita + glaseado de azúcar. Cero nutrientes, pura energía vacía.",
+    "macros": {
+      "protein": 3,
+      "carbs": 30,
+      "fat": 14,
+      "sugar": 15,
+      "fiber": 1
+    }
+  },
+  "dumplings": {
+    "name": "Dumplings / Empanadas Asiáticas",
+    "calories": 45,
+    "unit": "por pieza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Al vapor son ligeros. Fritos, absorben aceite y se duplican las calorías.",
+    "macros": {
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "edamame": {
+    "name": "Edamame",
+    "calories": 122,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: ¡Súper alimento! Proteína vegetal completa con fibra. Excelente snack.",
+    "macros": {
+      "protein": 11,
+      "carbs": 10,
+      "fat": 5,
+      "sugar": 2,
+      "fiber": 5
+    }
+  },
+  "eggs_benedict": {
+    "name": "Huevos Benedictinos",
+    "calories": 400,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Los huevos son sanos, pero la salsa holandesa (mantequilla pura) es la trampa.",
+    "macros": {
+      "protein": 18,
+      "carbs": 22,
+      "fat": 28,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "escargots": {
+    "name": "Escargots / Caracoles",
+    "calories": 170,
+    "unit": "por 6 piezas",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Muy bajo en grasa. Las calorías vienen de la mantequilla con ajo en que se cocinan.",
+    "macros": {
+      "protein": 12,
+      "carbs": 2,
+      "fat": 13,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "falafel": {
+    "name": "Falafel",
+    "calories": 330,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Garbanzo es nutritivo, pero al freírlo absorbe mucho aceite. Al horno es más sano.",
+    "macros": {
+      "protein": 13,
+      "carbs": 32,
+      "fat": 18,
+      "sugar": 2,
+      "fiber": 5
+    }
+  },
+  "filet_mignon": {
+    "name": "Filete Mignon",
+    "calories": 267,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Corte magro de res. Alto en proteína y hierro. Cuida el tamaño de la porción.",
+    "macros": {
+      "protein": 25,
+      "carbs": 0,
+      "fat": 18,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "fish_and_chips": {
+    "name": "Pescado y Papas Fritas",
+    "calories": 300,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: El pescado es sano, pero el empanizado frito y las papas lo arruinan todo.",
+    "macros": {
+      "protein": 12,
+      "carbs": 30,
+      "fat": 16,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "foie_gras": {
+    "name": "Foie Gras",
+    "calories": 462,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Hígado graso de pato. Altísimo en colesterol y calorías.",
+    "macros": {
+      "protein": 10,
+      "carbs": 2,
+      "fat": 46,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "french_fries": {
+    "name": "Papas Fritas",
+    "calories": 365,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Esponjas de aceite frito. Acrilamida (cancerígeno) se forma al freír a alta temperatura.",
+    "macros": {
+      "protein": 4,
+      "carbs": 41,
+      "fat": 20,
+      "sugar": 0,
+      "fiber": 3
+    }
+  },
+  "french_onion_soup": {
+    "name": "Sopa de Cebolla Francesa",
+    "calories": 180,
+    "unit": "por tazón",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: La sopa es ligera pero el pan gratinado con queso encima agrega muchas calorías.",
+    "macros": {
+      "protein": 7,
+      "carbs": 20,
+      "fat": 8,
+      "sugar": 5,
+      "fiber": 2
+    }
+  },
+  "french_toast": {
+    "name": "Pan Francés / Tostada Francesa",
+    "calories": 230,
+    "unit": "por 2 rebanadas",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Pan remojado en huevo y leche. Si le agregas miel o Nutella, se vuelve postre.",
+    "macros": {
+      "protein": 8,
+      "carbs": 30,
+      "fat": 9,
+      "sugar": 8,
+      "fiber": 1
+    }
+  },
+  "fried_calamari": {
+    "name": "Calamares Fritos",
+    "calories": 235,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: El calamar solo tiene 92 cal/100g. El empanizado y la fritura lo triplican.",
+    "macros": {
+      "protein": 11,
+      "carbs": 18,
+      "fat": 13,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "fried_rice": {
+    "name": "Arroz Frito",
+    "calories": 228,
+    "unit": "por taza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El aceite y la salsa de soya agregan calorías y sodio. Mejor arroz al vapor.",
+    "macros": {
+      "protein": 6,
+      "carbs": 35,
+      "fat": 7,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "frozen_yogurt": {
+    "name": "Yogurt Helado / Frozen Yogurt",
+    "calories": 159,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Parece sano pero tiene casi tanta azúcar como un helado normal.",
+    "macros": {
+      "protein": 4,
+      "carbs": 24,
+      "fat": 4,
+      "sugar": 22,
+      "fiber": 0
+    }
+  },
+  "garlic_bread": {
+    "name": "Pan de Ajo",
+    "calories": 350,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Pan blanco empapado en mantequilla. Cada rebanada tiene más grasa de lo que crees.",
+    "macros": {
+      "protein": 6,
+      "carbs": 38,
+      "fat": 20,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "gnocchi": {
+    "name": "Ñoquis",
+    "calories": 175,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Papa y harina. La salsa define si es ligero (tomate) o pesado (crema).",
+    "macros": {
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "greek_salad": {
+    "name": "Ensalada Griega",
+    "calories": 130,
+    "unit": "por porción",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Verduras frescas + aceitunas + queso feta. ¡Opción muy equilibrada y nutritiva!",
+    "macros": {
+      "protein": 4,
+      "carbs": 8,
+      "fat": 10,
+      "sugar": 4,
+      "fiber": 3
+    }
+  },
+  "grilled_cheese_sandwich": {
+    "name": "Sándwich de Queso Gratinado",
+    "calories": 370,
+    "unit": "por unidad",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Pan + mantequilla + queso derretido. Confort food puro, pero pesado para tu cuerpo.",
+    "macros": {
+      "protein": 14,
+      "carbs": 30,
+      "fat": 22,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "grilled_salmon": {
+    "name": "Salmón a la Parrilla",
+    "calories": 208,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: ¡EXCELENTE elección! Omega-3, proteína magra. De lo mejor que puedes comer.",
+    "macros": {
+      "protein": 22,
+      "carbs": 0,
+      "fat": 13,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "guacamole": {
+    "name": "Guacamole / Aguacate",
+    "calories": 160,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Grasas saludables para tu corazón. ¡Ojo con los totopos que son la trampa!",
+    "macros": {
+      "protein": 2,
+      "carbs": 9,
+      "fat": 15,
+      "sugar": 1,
+      "fiber": 7
+    }
+  },
+  "gyoza": {
+    "name": "Gyozas",
+    "calories": 50,
+    "unit": "por pieza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Al vapor son ligeras. Fritas, el aceite las hace pesadas. El relleno importa.",
+    "macros": {
+      "protein": 3,
+      "carbs": 6,
+      "fat": 2,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "hamburger": {
+    "name": "Hamburguesa",
+    "calories": 295,
+    "unit": "por unidad",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: La carne es proteína, pero pan blanco + queso + mayonesa + tocino = bomba de grasa.",
+    "macros": {
+      "protein": 15,
+      "carbs": 28,
+      "fat": 15,
+      "sugar": 4,
+      "fiber": 1
+    }
+  },
+  "hot_and_sour_soup": {
+    "name": "Sopa Agripicante",
+    "calories": 95,
+    "unit": "por tazón",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Baja en calorías y el picante acelera tu metabolismo. Buena elección.",
+    "macros": {
+      "protein": 6,
+      "carbs": 10,
+      "fat": 3,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "hot_dog": {
+    "name": "Hot Dog",
+    "calories": 290,
+    "unit": "por unidad",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Carne ultra procesada llena de sodio, nitratos y conservadores. Evítalos seguido.",
+    "macros": {
+      "protein": 10,
+      "carbs": 24,
+      "fat": 17,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "huevos_rancheros": {
+    "name": "Huevos Rancheros",
+    "calories": 250,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Huevo + salsa de tomate + frijoles = proteína y fibra. Bastante nutritivo.",
+    "macros": {
+      "protein": 14,
+      "carbs": 22,
+      "fat": 12,
+      "sugar": 3,
+      "fiber": 5
+    }
+  },
+  "hummus": {
+    "name": "Hummus",
+    "calories": 166,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Garbanzo molido con aceite de oliva. Fibra, proteína vegetal. ¡Snack inteligente!",
+    "macros": {
+      "protein": 8,
+      "carbs": 14,
+      "fat": 10,
+      "sugar": 1,
+      "fiber": 6
+    }
+  },
+  "ice_cream": {
+    "name": "Helado / Malteada",
+    "calories": 207,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Azúcar + crema + grasa. Disfrútalo en porciones pequeñas, no como sustituto de comida.",
+    "macros": {
+      "protein": 3,
+      "carbs": 24,
+      "fat": 11,
+      "sugar": 21,
+      "fiber": 0
+    }
+  },
+  "lasagna": {
+    "name": "Lasaña",
+    "calories": 280,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Capas de pasta, carne y queso. Porción moderada = aceptable. Doble porción = exceso.",
+    "macros": {
+      "protein": 14,
+      "carbs": 28,
+      "fat": 14,
+      "sugar": 5,
+      "fiber": 2
+    }
+  },
+  "lobster_bisque": {
+    "name": "Bisque de Langosta",
+    "calories": 200,
+    "unit": "por tazón",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: La langosta es magra, pero la crema de la sopa agrega bastante grasa.",
+    "macros": {
+      "protein": 12,
+      "carbs": 12,
+      "fat": 13,
+      "sugar": 2,
+      "fiber": 0
+    }
+  },
+  "lobster_roll_sandwich": {
+    "name": "Rollo de Langosta",
+    "calories": 350,
+    "unit": "por unidad",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Langosta es baja en grasa. La mantequilla y el pan suben las calorías.",
+    "macros": {
+      "protein": 18,
+      "carbs": 30,
+      "fat": 20,
+      "sugar": 3,
+      "fiber": 1
+    }
+  },
+  "macaroni_and_cheese": {
+    "name": "Macarrones con Queso",
+    "calories": 310,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Pasta + queso + mantequilla. Confort food que engorda rápido.",
+    "macros": {
+      "protein": 10,
+      "carbs": 36,
+      "fat": 15,
+      "sugar": 4,
+      "fiber": 1
+    }
+  },
+  "macarons": {
+    "name": "Macarons",
+    "calories": 100,
+    "unit": "por pieza",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Son pequeños pero concentrados en azúcar. 3 macarons = un postre completo.",
+    "macros": {
+      "protein": 2,
+      "carbs": 14,
+      "fat": 5,
+      "sugar": 12,
+      "fiber": 0
+    }
+  },
+  "miso_soup": {
+    "name": "Sopa de Miso",
+    "calories": 40,
+    "unit": "por tazón",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: ¡Casi cero calorías! Probióticos del miso benefician tu sistema digestivo.",
+    "macros": {
+      "protein": 3,
+      "carbs": 4,
+      "fat": 1,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "mussels": {
+    "name": "Mejillones",
+    "calories": 86,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Altísimos en hierro y vitamina B12. Muy bajos en grasa. ¡Excelente!",
+    "macros": {
+      "protein": 12,
+      "carbs": 4,
+      "fat": 2,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "nachos": {
+    "name": "Nachos",
+    "calories": 346,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Totopos fritos + queso derretido + crema. Una bomba de calorías vacías.",
+    "macros": {
+      "protein": 8,
+      "carbs": 30,
+      "fat": 22,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "omelette": {
+    "name": "Omelette",
+    "calories": 154,
+    "unit": "por unidad (2 huevos)",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Excelente fuente de proteína. Rellénalo de verduras para hacerlo aún más sano.",
+    "macros": {
+      "protein": 12,
+      "carbs": 2,
+      "fat": 11,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "onion_rings": {
+    "name": "Aros de Cebolla",
+    "calories": 332,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Cebolla empanizada y frita. El empanizado absorbe más aceite que las papas fritas.",
+    "macros": {
+      "protein": 4,
+      "carbs": 38,
+      "fat": 19,
+      "sugar": 4,
+      "fiber": 2
+    }
+  },
+  "oysters": {
+    "name": "Ostiones / Ostras",
+    "calories": 68,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bajísimos en calorías, altísimos en zinc. Súper alimento del mar.",
+    "macros": {
+      "protein": 7,
+      "carbs": 4,
+      "fat": 2,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "pad_thai": {
+    "name": "Pad Thai",
+    "calories": 300,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Fideos de arroz con salsa dulce. Tiene proteína del cacahuate pero bastante azúcar.",
+    "macros": {
+      "protein": 12,
+      "carbs": 42,
+      "fat": 12,
+      "sugar": 12,
+      "fiber": 2
+    }
+  },
+  "paella": {
+    "name": "Paella",
+    "calories": 280,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Arroz + mariscos + verduras. Bastante equilibrada si controlas la porción de arroz.",
+    "macros": {
+      "protein": 14,
+      "carbs": 38,
+      "fat": 10,
+      "sugar": 3,
+      "fiber": 2
+    }
+  },
+  "pancakes": {
+    "name": "Hotcakes / Pancakes",
+    "calories": 227,
+    "unit": "por 3 piezas",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Harina + huevo + leche. Sin miel ni mantequilla son moderados. Con Nutella, peligrosos.",
+    "macros": {
+      "protein": 6,
+      "carbs": 38,
+      "fat": 6,
+      "sugar": 8,
+      "fiber": 1
+    }
+  },
+  "panna_cotta": {
+    "name": "Panna Cotta",
+    "calories": 220,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Crema cocida con azúcar. Postre italiano suave pero calórico.",
+    "macros": {
+      "protein": 3,
+      "carbs": 18,
+      "fat": 15,
+      "sugar": 16,
+      "fiber": 0
+    }
+  },
+  "peking_duck": {
+    "name": "Pato Pekín / Laqueado",
+    "calories": 337,
+    "unit": "por 100g",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: La piel crujiente es pura grasa. Sin piel, el pato es proteína magra.",
+    "macros": {
+      "protein": 19,
+      "carbs": 8,
+      "fat": 26,
+      "sugar": 5,
+      "fiber": 0
+    }
+  },
+  "pho": {
+    "name": "Pho / Sopa Vietnamita",
+    "calories": 215,
+    "unit": "por tazón",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Caldo ligero + fideos de arroz + carne magra + hierbas. ¡Reconfortante y nutritivo!",
+    "macros": {
+      "protein": 18,
+      "carbs": 28,
+      "fat": 5,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "pizza": {
+    "name": "Pizza",
+    "calories": 266,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa refinada + queso + embutidos. Una rebanada está bien, más de dos ya es exceso.",
+    "macros": {
+      "protein": 11,
+      "carbs": 30,
+      "fat": 12,
+      "sugar": 3,
+      "fiber": 2
+    }
+  },
+  "pork_chop": {
+    "name": "Chuleta de Cerdo",
+    "calories": 231,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Proteína con algo de grasa. A la parrilla es mejor que frita.",
+    "macros": {
+      "protein": 24,
+      "carbs": 0,
+      "fat": 15,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "poutine": {
+    "name": "Poutine",
+    "calories": 420,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Papas fritas + queso + gravy. De los platos más calóricos que existen.",
+    "macros": {
+      "protein": 12,
+      "carbs": 45,
+      "fat": 25,
+      "sugar": 2,
+      "fiber": 3
+    }
+  },
+  "prime_rib": {
+    "name": "Prime Rib / Costilla de Res",
+    "calories": 310,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Corte con bastante grasa intramuscular. Rico en proteína pero pesado.",
+    "macros": {
+      "protein": 20,
+      "carbs": 0,
+      "fat": 25,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "pulled_pork_sandwich": {
+    "name": "Sándwich de Cerdo Deshebrado",
+    "calories": 380,
+    "unit": "por unidad",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: La carne tiene mucha grasa + salsa BBQ con azúcar + pan. Combo pesado.",
+    "macros": {
+      "protein": 22,
+      "carbs": 35,
+      "fat": 18,
+      "sugar": 12,
+      "fiber": 1
+    }
+  },
+  "ramen": {
+    "name": "Ramen",
+    "calories": 436,
+    "unit": "por tazón",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El caldo puede ser muy grasoso (especialmente tonkotsu). Los fideos son carbohidrato puro.",
+    "macros": {
+      "protein": 18,
+      "carbs": 55,
+      "fat": 16,
+      "sugar": 4,
+      "fiber": 2
+    }
+  },
+  "ravioli": {
+    "name": "Ravioles",
+    "calories": 220,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Depende del relleno. Ricotta es moderado; carne y queso son más pesados.",
+    "macros": {
+      "protein": 8,
+      "carbs": 30,
+      "fat": 8,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "red_velvet_cake": {
+    "name": "Pastel Red Velvet",
+    "calories": 370,
+    "unit": "por rebanada",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Es un pastel de chocolate disfrazado con colorante rojo + frosting de queso crema.",
+    "macros": {
+      "protein": 4,
+      "carbs": 48,
+      "fat": 20,
+      "sugar": 32,
+      "fiber": 1
+    }
+  },
+  "risotto": {
+    "name": "Risotto",
+    "calories": 260,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Arroz cremoso con mantequilla y queso parmesano. Rico pero calórico.",
+    "macros": {
+      "protein": 7,
+      "carbs": 40,
+      "fat": 8,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "samosa": {
+    "name": "Samosa",
+    "calories": 262,
+    "unit": "por pieza",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa frita rellena de papa. El relleno es nutritivo pero la fritura lo arruina.",
+    "macros": {
+      "protein": 4,
+      "carbs": 28,
+      "fat": 15,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "sashimi": {
+    "name": "Sashimi",
+    "calories": 127,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: ¡Pescado crudo puro! Proteína magra + Omega-3. De las opciones más sanas que existen.",
+    "macros": {
+      "protein": 22,
+      "carbs": 0,
+      "fat": 4,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "scallops": {
+    "name": "Vieiras / Callos de Hacha",
+    "calories": 111,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bajísimas en grasa, altas en proteína. Excelente opción de marisco.",
+    "macros": {
+      "protein": 20,
+      "carbs": 5,
+      "fat": 1,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "seaweed_salad": {
+    "name": "Ensalada de Algas",
+    "calories": 45,
+    "unit": "por porción",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Súper alimento marino. Rica en yodo, minerales y casi cero calorías.",
+    "macros": {
+      "protein": 3,
+      "carbs": 6,
+      "fat": 1,
+      "sugar": 1,
+      "fiber": 2
+    }
+  },
+  "shrimp_and_grits": {
+    "name": "Camarones con Sémola",
+    "calories": 350,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Los camarones son magros, pero la sémola con mantequilla y queso agrega calorías.",
+    "macros": {
+      "protein": 22,
+      "carbs": 32,
+      "fat": 16,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "spaghetti_bolognese": {
+    "name": "Spaghetti Boloñesa",
+    "calories": 310,
+    "unit": "por porción",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: La salsa de tomate con carne es nutritiva. El exceso de pasta es lo que engorda.",
+    "macros": {
+      "protein": 14,
+      "carbs": 42,
+      "fat": 10,
+      "sugar": 8,
+      "fiber": 3
+    }
+  },
+  "spaghetti_carbonara": {
+    "name": "Spaghetti Carbonara",
+    "calories": 390,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Huevo + queso + tocino + pasta. Sabor increíble, pero una de las pastas más calóricas.",
+    "macros": {
+      "protein": 15,
+      "carbs": 45,
+      "fat": 18,
+      "sugar": 3,
+      "fiber": 2
+    }
+  },
+  "spring_rolls": {
+    "name": "Rollos Primavera",
+    "calories": 80,
+    "unit": "por pieza (frescos) / 150 (fritos)",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Los frescos (papel de arroz) son ligeros. Los fritos triplican las calorías.",
+    "macros": {
+      "protein": 3,
+      "carbs": 12,
+      "fat": 3,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "steak": {
+    "name": "Bistec / Carne Asada",
+    "calories": 271,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Proteína + hierro + B12. Cortes magros son buenos; cortes con grasa visible, no tanto.",
+    "macros": {
+      "protein": 26,
+      "carbs": 0,
+      "fat": 18,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "strawberry_shortcake": {
+    "name": "Pastel de Fresa",
+    "calories": 260,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Las fresas son sanas, pero el bizcocho y la crema batida anulan sus beneficios.",
+    "macros": {
+      "protein": 3,
+      "carbs": 34,
+      "fat": 14,
+      "sugar": 22,
+      "fiber": 1
+    }
+  },
+  "sushi": {
+    "name": "Sushi",
+    "calories": 150,
+    "unit": "por 6 piezas (roll)",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: El pescado crudo es sano. Cuidado con los rolls fritos (tempura) y el queso crema.",
+    "macros": {
+      "protein": 7,
+      "carbs": 22,
+      "fat": 4,
+      "sugar": 4,
+      "fiber": 1
+    }
+  },
+  "tacos": {
+    "name": "Tacos",
+    "calories": 200,
+    "unit": "por taco (promedio)",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Tortilla de maíz + carne magra = balance. Los fritos con crema y queso se vuelven pesados.",
+    "macros": {
+      "protein": 10,
+      "carbs": 18,
+      "fat": 10,
+      "sugar": 1,
+      "fiber": 2
+    }
+  },
+  "takoyaki": {
+    "name": "Takoyaki (Bolitas de Pulpo)",
+    "calories": 50,
+    "unit": "por pieza",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Masa con pulpo. Ligeros individualmente, pero las salsas suman calorías.",
+    "macros": {
+      "protein": 2,
+      "carbs": 6,
+      "fat": 2,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "tiramisu": {
+    "name": "Tiramisú",
+    "calories": 290,
+    "unit": "por porción",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Mascarpone (crema grasa) + azúcar + bizcocho. Postre delicioso pero muy calórico.",
+    "macros": {
+      "protein": 4,
+      "carbs": 30,
+      "fat": 17,
+      "sugar": 20,
+      "fiber": 0
+    }
+  },
+  "tuna_tartare": {
+    "name": "Tártara de Atún",
+    "calories": 130,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Atún crudo fresco. Proteína magra + Omega-3. Muy nutritivo si es de calidad.",
+    "macros": {
+      "protein": 24,
+      "carbs": 2,
+      "fat": 3,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "waffles": {
+    "name": "Gofres / Waffles",
+    "calories": 220,
+    "unit": "por 2 piezas",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Harina + huevo + leche. Sin sirope son moderados. Con Nutella y frutas, postre.",
+    "macros": {
+      "protein": 6,
+      "carbs": 35,
+      "fat": 7,
+      "sugar": 6,
+      "fiber": 1
+    }
+  },
+  "water": {
+    "name": "Agua",
+    "calories": 0,
+    "unit": "por vaso",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Cero calorías, esencial para la vida. Bebe 2-3 litros al día.",
+    "macros": {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "coffee": {
+    "name": "Café Negro",
+    "calories": 2,
+    "unit": "por taza",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Cero calorías, antioxidantes, acelera metabolismo. Sin azúcar ni crema.",
+    "macros": {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "tea": {
+    "name": "Té (sin azúcar)",
+    "calories": 1,
+    "unit": "por taza",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Antioxidantes, hidratación, casi cero calorías. Verde = más beneficios.",
+    "macros": {
+      "protein": 0,
+      "carbs": 0,
+      "fat": 0,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "beer": {
+    "name": "Cerveza",
+    "calories": 150,
+    "unit": "por lata (355ml)",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Calorías vacías de alcohol + carbohidratos. La 'barriga cervecera' es real.",
+    "macros": {
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "wine": {
+    "name": "Vino (copa)",
+    "calories": 125,
+    "unit": "por 150ml",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Resveratrol en vino tinto tiene beneficios, pero el alcohol suma calorías vacías.",
+    "macros": {
+      "protein": 0,
+      "carbs": 4,
+      "fat": 0,
+      "sugar": 1,
+      "fiber": 0
+    }
+  },
+  "soda": {
+    "name": "Refresco / Soda",
+    "calories": 140,
+    "unit": "por lata (355ml)",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: 35g de azúcar por lata. Directo a grasa. Evítalo completamente.",
+    "macros": {
+      "protein": 0,
+      "carbs": 39,
+      "fat": 0,
+      "sugar": 39,
+      "fiber": 0
+    }
+  },
+  "juice": {
+    "name": "Jugo de Fruta",
+    "calories": 110,
+    "unit": "por 240ml",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Vitaminas pero sin fibra = azúcar rápido. Mejor come la fruta entera.",
+    "macros": {
+      "protein": 1,
+      "carbs": 26,
+      "fat": 0,
+      "sugar": 24,
+      "fiber": 0
+    }
+  },
+  "milk": {
+    "name": "Leche (entera)",
+    "calories": 150,
+    "unit": "por 240ml",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Calcio, proteína, vitamina D. Descremada tiene menos grasa.",
+    "macros": {
+      "protein": 8,
+      "carbs": 12,
+      "fat": 8,
+      "sugar": 12,
+      "fiber": 0
+    }
+  },
+  "yogurt": {
+    "name": "Yogurt Natural",
+    "calories": 100,
+    "unit": "por 170g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Probióticos + proteína + calcio. Evita los azucarados.",
+    "macros": {
+      "protein": 9,
+      "carbs": 5,
+      "fat": 5,
+      "sugar": 5,
+      "fiber": 0
+    }
+  },
+  "eggs": {
+    "name": "Huevos (2 unidades)",
+    "calories": 155,
+    "unit": "por 2 huevos",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: La proteína más completa que existe. Colina para el cerebro. Cómelos entero.",
+    "macros": {
+      "protein": 13,
+      "carbs": 1,
+      "fat": 11,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "rice": {
+    "name": "Arroz Blanco (cocido)",
+    "calories": 130,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Carbohidrato limpio. Integral tiene más fibra. Controla la porción.",
+    "macros": {
+      "protein": 2,
+      "carbs": 28,
+      "fat": 0,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "pasta": {
+    "name": "Pasta (cocida)",
+    "calories": 131,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Carbohidrato de absorción media. Integral = mejor índice glucémico.",
+    "macros": {
+      "protein": 5,
+      "carbs": 25,
+      "fat": 1,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "bread": {
+    "name": "Pan Blanco",
+    "calories": 265,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Harina refinada. Integral o de centeno son mejores opciones.",
+    "macros": {
+      "protein": 9,
+      "carbs": 49,
+      "fat": 3,
+      "sugar": 5,
+      "fiber": 2
+    }
+  },
+  "chicken_breast": {
+    "name": "Pechuga de Pollo (cocida)",
+    "calories": 165,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Proteína magra pura. Bajo en grasa, alto en proteína. Básico de dieta sana.",
+    "macros": {
+      "protein": 31,
+      "carbs": 0,
+      "fat": 4,
+      "sugar": 0,
+      "fiber": 0
+    }
+  },
+  "avocado": {
+    "name": "Aguacate / Palta",
+    "calories": 160,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Grasas monoinsaturadas para el corazón. Fibra, potasio. ¡No le temas a la grasa buena!",
+    "macros": {
+      "protein": 2,
+      "carbs": 9,
+      "fat": 15,
+      "sugar": 1,
+      "fiber": 7
+    }
+  },
+  "banana": {
+    "name": "Plátano / Banana",
+    "calories": 89,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Potasio, energía rápida, vitamina B6. Ideal pre-entreno.",
+    "macros": {
+      "protein": 1,
+      "carbs": 23,
+      "fat": 0,
+      "sugar": 12,
+      "fiber": 3
+    }
+  },
+  "apple": {
+    "name": "Manzana",
+    "calories": 52,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Fibra, vitamina C, antioxidantes. 'Una manzana al día...' es real.",
+    "macros": {
+      "protein": 0,
+      "carbs": 14,
+      "fat": 0,
+      "sugar": 10,
+      "fiber": 2
+    }
+  },
+  "orange": {
+    "name": "Naranja",
+    "calories": 47,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Vitamina C, fibra, folato. Comer entera > jugo exprimido.",
+    "macros": {
+      "protein": 1,
+      "carbs": 12,
+      "fat": 0,
+      "sugar": 9,
+      "fiber": 2
+    }
+  },
+  "strawberry": {
+    "name": "Fresa / Fresas",
+    "calories": 32,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bajas en calorias, altas en vitamina C y antioxidantes. Snack perfecto.",
+    "macros": {
+      "protein": 1,
+      "carbs": 8,
+      "fat": 0,
+      "sugar": 5,
+      "fiber": 2
+    }
+  },
+  "pineapple": {
+    "name": "Pina",
+    "calories": 50,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bromelina digiere proteinas. Dulce natural, mejor entera que en almibar.",
+    "macros": {
+      "protein": 1,
+      "carbs": 13,
+      "fat": 0,
+      "sugar": 10,
+      "fiber": 1
+    }
+  },
+  "lemon": {
+    "name": "Limon",
+    "calories": 29,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Vitamina C pura. Casi cero calorias. Ideal en agua o aderezos.",
+    "macros": {
+      "protein": 1,
+      "carbs": 9,
+      "fat": 0,
+      "sugar": 3,
+      "fiber": 3
+    }
+  },
+  "fig": {
+    "name": "Higo",
+    "calories": 74,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Fibra y minerales. Dulce natural; los secos concentran mas azucar.",
+    "macros": {
+      "protein": 1,
+      "carbs": 19,
+      "fat": 0,
+      "sugar": 16,
+      "fiber": 3
+    }
+  },
+  "pomegranate": {
+    "name": "Granada",
+    "calories": 83,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Antioxidantes potentes. Semillas con fibra; el jugo pierde fibra.",
+    "macros": {
+      "protein": 2,
+      "carbs": 19,
+      "fat": 1,
+      "sugar": 14,
+      "fiber": 4
+    }
+  },
+  "jackfruit": {
+    "name": "Yaca / Jackfruit",
+    "calories": 95,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Fruta tropical rica en fibra. La version en conserva puede traer azucar anadida.",
+    "macros": {
+      "protein": 2,
+      "carbs": 23,
+      "fat": 1,
+      "sugar": 19,
+      "fiber": 2
+    }
+  },
+  "broccoli": {
+    "name": "Brocoli",
+    "calories": 34,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Super alimento. Fibra, vitamina C y K. Al vapor conserva mas nutrientes.",
+    "macros": {
+      "protein": 3,
+      "carbs": 7,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 3
+    }
+  },
+  "cauliflower": {
+    "name": "Coliflor",
+    "calories": 25,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Muy baja en calorias. Buen sustituto de arroz o pizza base.",
+    "macros": {
+      "protein": 2,
+      "carbs": 5,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "cucumber": {
+    "name": "Pepino",
+    "calories": 15,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Casi solo agua. Hidrata y llena con casi cero calorias.",
+    "macros": {
+      "protein": 1,
+      "carbs": 4,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "bell_pepper": {
+    "name": "Pimiento",
+    "calories": 31,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: El rojo tiene mas vitamina C que una naranja. Crujiente y bajo en calorias.",
+    "macros": {
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0,
+      "sugar": 4,
+      "fiber": 2
+    }
+  },
+  "mushroom": {
+    "name": "Champinones / Hongos",
+    "calories": 22,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bajos en calorias, umami natural. Evita freirlos en exceso de mantequilla.",
+    "macros": {
+      "protein": 3,
+      "carbs": 3,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "cabbage": {
+    "name": "Repollo / Col",
+    "calories": 25,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Fibra y vitamina C barata. Ideal en ensaladas y guisos ligeros.",
+    "macros": {
+      "protein": 1,
+      "carbs": 6,
+      "fat": 0,
+      "sugar": 3,
+      "fiber": 3
+    }
+  },
+  "zucchini": {
+    "name": "Calabacin / Zucchini",
+    "calories": 17,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Bajísimo en calorias. Perfecto a la parrilla o en espirales tipo pasta.",
+    "macros": {
+      "protein": 1,
+      "carbs": 3,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "squash": {
+    "name": "Calabaza",
+    "calories": 40,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Betacarotenos y fibra. Asada es dulce natural sin azucar anadida.",
+    "macros": {
+      "protein": 1,
+      "carbs": 10,
+      "fat": 0,
+      "sugar": 2,
+      "fiber": 2
+    }
+  },
+  "artichoke": {
+    "name": "Alcachofa",
+    "calories": 47,
+    "unit": "por 100g",
+    "healthStatus": "healthy",
+    "suggestion": "La VERDAD: Fibra prebiotica excelente. Evita salsas cremosas si buscas ligereza.",
+    "macros": {
+      "protein": 3,
+      "carbs": 11,
+      "fat": 0,
+      "sugar": 1,
+      "fiber": 5
+    }
+  },
+  "mashed_potato": {
+    "name": "Pure de Papa",
+    "calories": 110,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: La papa es ok; mantequilla y crema disparan las calorias.",
+    "macros": {
+      "protein": 2,
+      "carbs": 17,
+      "fat": 4,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "bagel": {
+    "name": "Bagel",
+    "calories": 250,
+    "unit": "por unidad (media)",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Densidad calórica alta por el gluten. Integral + proteinas es mejor combo.",
+    "macros": {
+      "protein": 10,
+      "carbs": 50,
+      "fat": 2,
+      "sugar": 6,
+      "fiber": 2
+    }
+  },
+  "pretzel": {
+    "name": "Pretzel",
+    "calories": 150,
+    "unit": "por pieza mediana",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Harina refinada y sodio. Mejor snack ocasional que diario.",
+    "macros": {
+      "protein": 4,
+      "carbs": 31,
+      "fat": 1,
+      "sugar": 1,
+      "fiber": 1
+    }
+  },
+  "meat_loaf": {
+    "name": "Pastel de Carne",
+    "calories": 210,
+    "unit": "por 100g",
+    "healthStatus": "moderate",
+    "suggestion": "La VERDAD: Proteina solida; pan rallado y grasa definen si es ligero o pesado.",
+    "macros": {
+      "protein": 16,
+      "carbs": 8,
+      "fat": 12,
+      "sugar": 2,
+      "fiber": 1
+    }
+  },
+  "potpie": {
+    "name": "Pot Pie / Pay Salado",
+    "calories": 280,
+    "unit": "por porcion",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Masa hojaldrada + relleno cremoso. Comida reconfortante pero calórica.",
+    "macros": {
+      "protein": 10,
+      "carbs": 28,
+      "fat": 15,
+      "sugar": 3,
+      "fiber": 2
+    }
+  },
+  "eggnog": {
+    "name": "Rompope / Eggnog",
+    "calories": 140,
+    "unit": "por 120ml",
+    "healthStatus": "unhealthy",
+    "suggestion": "La VERDAD: Leche, yema, azucar y a veces alcohol. Postre liquido, no bebida diaria.",
+    "macros": {
+      "protein": 4,
+      "carbs": 14,
+      "fat": 7,
+      "sugar": 14,
+      "fiber": 0
+    }
+  }
+}

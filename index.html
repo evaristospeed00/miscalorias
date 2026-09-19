@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+    <meta name="description" content="Descubre las calorias de tu comida con Inteligencia Artificial directamente en tu navegador. Reconoce 101+ platillos.">
+    <meta name="theme-color" content="#0f172a">
+    <meta name="color-scheme" content="dark">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="MiscalorIAs">
+    <title>MiscalorIAs - Analizador de Alimentos con IA</title>
+    <link rel="icon" href="favicon.ico?v=2" type="image/x-icon" sizes="any">
+    <link rel="icon" href="favicon.png?v=2" type="image/png" sizes="64x64">
+    <link rel="stylesheet" href="style.css">
+    <script>
+        // Prevenir flicker de idioma antes de renderizar (inline para ejecucion inmediata)
+        (function () {
+            try {
+                var hash = window.location.hash.replace('#', '');
+                var saved = localStorage.getItem('calorie-ai-language');
+                var lang = ['es', 'en'].indexOf(hash) !== -1 ? hash : (saved || 'es');
+                document.documentElement.lang = lang;
+            } catch (e) {}
+        })();
+    </script>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+    <link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+    <!-- Pre-carga del modelo Food-101 (especialista en comida, ~58 MB, 1 sola vez). -->
+    <link rel="preload" href="models/food101/onnx/model_q4.onnx" as="fetch" crossorigin>
+    <link rel="preload" href="models/food101/config.json" as="fetch" crossorigin>
+</head>
+<body>
+    <div class="author-credits" data-i18n="author" id="author-credits" role="button" tabindex="0" aria-haspopup="dialog" aria-expanded="false">Creado por Evaristo Suarez Eichelmann</div>
+    <nav class="language-switcher" aria-label="Language selector">
+        <button class="language-option active" type="button" data-lang="es" aria-pressed="true">ES</button>
+        <button class="language-option" type="button" data-lang="en" aria-pressed="false">EN</button>
+    </nav>
+
+    <div class="app-container">
+        <!-- Espacio para Ads (Fase 5) -->
+        <div class="ad-space" id="ad-top">
+            <span data-i18n="adSpace">Espacio AdSense</span>
+        </div>
+
+        <header>
+            <h1 id="brand-title">Miscalor<span class="accent">IAs</span></h1>
+            <p data-i18n="tagline">Conoce lo que comes con Inteligencia Artificial</p>
+        </header>
+
+        <!-- Barra de Progreso de Carga de IA -->
+        <div class="loading-bar" id="loading-bar">
+            <p id="loading-text" class="loading-text" data-i18n="loadingPreparing">Preparando IA especialista en comida...</p>
+            <div class="progress-container">
+                <div class="progress-fill" id="loading-progress"></div>
+            </div>
+        </div>
+
+        <main>
+            <!-- Seccion de Subida de Imagen -->
+            <div class="upload-section" id="upload-section">
+                <div class="upload-box" id="upload-box">
+                    <div class="icon-container">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                            <rect x="3" y="3" width="18" height="18" rx="2" ry="2"></rect>
+                            <circle cx="8.5" cy="8.5" r="1.5"></circle>
+                            <polyline points="21 15 16 10 5 21"></polyline>
+                        </svg>
+                    </div>
+                    <h2 data-i18n="uploadTitle">Toma una foto o sube imagen</h2>
+                    <p data-i18n="uploadHint">Formatos: JPG, PNG</p>
+
+                    <!-- El atributo capture="environment" abre la camara trasera en moviles -->
+                    <input type="file" id="image-input" accept="image/*" capture="environment" hidden>
+                    <button class="btn-primary" id="btn-upload" data-i18n="uploadButton">Camara / Galeria</button>
+                </div>
+            </div>
+
+            <!-- Seccion de Vista Previa y Resultados -->
+            <div class="preview-section hidden" id="preview-section">
+                <div class="image-wrapper">
+                    <img id="image-preview" src="" data-i18n="previewAlt" alt="">
+                    <!-- Animacion de escaneo (IA) -->
+                    <div class="scanning-overlay hidden" id="scanning-overlay">
+                        <div class="scan-line"></div>
+                        <div class="scan-text" data-i18n="scanAnalyzing">Analizando alimento...</div>
+                    </div>
+                </div>
+
+                <div class="results-container hidden" id="results-container">
+                    <div class="result-card glass">
+                        <div class="food-header">
+                            <h2 id="food-name">Tu comida</h2>
+                            <div class="health-badge" id="health-badge">...</div>
+                        </div>
+
+                        <p id="quality-notice" class="quality-notice" aria-live="polite"></p>
+
+                        <div class="detected-items-panel">
+                            <h3 class="panel-title" data-i18n="detectedItemsLabel">Elementos detectados</h3>
+                        <div id="detected-items-list" class="detected-items-list"></div>
+                        </div>
+
+                        <div id="alternatives-box" class="alternatives-box hidden" aria-live="polite"></div>
+
+                        <div class="calories-display">
+                            <span class="cal-number" id="calorie-amount">--</span>
+                            <span class="cal-unit" id="calorie-unit">kcal</span>
+                        </div>
+
+                        <div class="macro-grid" id="macro-grid"></div>
+
+                        <div class="suggestion-box">
+                            <h3 data-i18n="analysisLabel">Analisis:</h3>
+                            <p id="food-suggestion">...</p>
+                        </div>
+
+                        <div class="recommendations-box">
+                            <h3 data-i18n="recommendationsLabel">Recomendaciones:</h3>
+                            <ul id="recommendations-list" class="recommendations-list"></ul>
+                        </div>
+                    </div>
+
+                    <button class="btn-secondary" id="btn-reset" data-i18n="newMeal">Nueva Comida</button>
+                </div>
+            </div>
+        </main>
+    </div>
+
+    <div class="ad-modal hidden" id="ad-modal">
+        <div class="ad-modal-content">
+            <p class="ad-label" data-i18n="adLabel">Publicidad</p>
+            <div class="ad-container-interstitial">
+                <!-- Codigo de Google AdSense ira aqui. Ejemplo: -->
+                <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXX" crossorigin="anonymous"></script> -->
+                <!-- <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-XXX" data-ad-slot="XXX" data-ad-format="auto"></ins> -->
+                <!-- <script>(adsbygoogle = window.adsbygoogle || []).push({});</script> -->
+                <span data-i18n="adSpace">Espacio AdSense</span>
+            </div>
+            <button class="btn-primary" id="btn-close-ad" data-i18n="closeAd">Cerrar y continuar</button>
+        </div>
+    </div>
+
+    <!-- Runtimes IA: sin defer para garantizar orden antes de app.js -->
+    <script src="https://cdn.jsdelivr.net/npm/onnxruntime-web@1.21.0/dist/ort.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@4.22.0/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow-models/mobilenet@2.1.1/dist/mobilenet.min.js"></script>
+    <script src="nutrition-engine.js"></script>
+    <script src="model.js"></script>
+    <script src="app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('./sw.js').catch(() => {});
+        }
+    </script>
+</body>
+</html>
